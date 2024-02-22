@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
-I'm Jemes, a C.S graduating in the Fall of 2024. 
+I'm Jemes, a CS major graduating in the Fall of 2024. 
 * I'm currently balancing my coursework and working on a chrome extension in my free time.
-* Currently work in IT at my college campus. 
+* Currently work in IT at my campus. 
 
 <!--
 **jperera01/jperera01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
